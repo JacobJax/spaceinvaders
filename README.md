@@ -4,18 +4,25 @@ Space invaders is a simple python game built with Pygame as a clone of the famou
 
 ![game](ill.PNG)
 
+<br>
+ 
 ## Languages and technologies 🛠
 * Python
 * PyGame
+
+<br>
 
 ## Requirements
 * Python2 or [Python3](https://www.python.org/)(recommended)
 * [PyGame](https://www.pygame.org/wiki/GettingStarted)
 
+<br>
+
 ## Installation
 1. Clone the repository by running `git clone https://github.com/JacobJax/spaceinvaders.git`
 1. Run `python main.py`
 
+<br>
 
 ## How its played
 The game is pretty simple.

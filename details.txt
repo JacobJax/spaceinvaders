@@ -1,0 +1,11 @@
+playerX = 370
+playerY = 480
+
+def create_enemies(self):
+        # create enemies
+        for i in range(number_of_enemies):
+            enemy_img.append(pygame.image.load(self.enemy_image))
+            enemyX.append(self.positionX)
+            enemyY.append(self.positionY)
+            enemyX_change.append(self.enemyX_change)
+            enemyY_change.append(self.enemyY_change)
